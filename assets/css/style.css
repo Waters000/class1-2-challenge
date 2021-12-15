@@ -1,0 +1,21 @@
+.section {
+    background-color: lemonchiffon;
+    border-top-left-radius: 25px;
+}
+
+.headers {
+    color: darkblue;
+    background-color: blanchedalmond;
+}
+
+#email {
+    background-color: goldenrod;
+}
+
+#github {
+    background-color: lightsteelblue
+}
+
+#portfolio {
+    background-color: darkorange;
+}
